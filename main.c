@@ -18,8 +18,9 @@ int main(){
 
     gettimeofday(&start, NULL);
     
-    bubbleSort(vet,n);
-    //insertionSort(vet,n);
+    //bubbleSort(vet,n);
+    //selectionSort(vet,n);
+    insertionSort(vet,n);
 
     gettimeofday(&stop, NULL);
     double secs = (double)(stop.tv_usec - start.tv_usec) / 1000000 + (double)(stop.tv_sec - start.tv_sec);
