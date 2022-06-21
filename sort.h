@@ -1,7 +1,7 @@
 #define SORT_H
 
-extern int _SWAPS;
-extern int _COMPS;
+extern long _SWAPS;
+extern long _COMPS;
 
 
 void bubbleSort(int* vet, int size);

@@ -1,0 +1,9 @@
+time taken 0.287247
+Total comps: 50004999 
+Total Swaps: 24217849 
+time taken 7.897081
+Total comps: 1250024999 
+Total Swaps: 532127488 
+time taken 32.014987
+Total comps: 5000049999 
+Total Swaps: 1841563801 
